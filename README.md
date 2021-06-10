@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MikeGibson420
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...html and basic coding
-- 💞️ I’m looking to collaborate on ... https://farmerslink.ca/shop/
-- 📫 How to reach me ... message me directly
+I just don't want to do anything wrong or be flagged
 
 
 
